@@ -1,0 +1,52 @@
+{
+  "channels": [
+    {
+      "id": "1",
+      "name": "PTV Home",
+      "logo_url": "https://raw.githubusercontent.com/iptv-org/iptv/master/logos/pk/PTVHome.png",
+      "stream_url": "https://example.com/ptv.m3u8",
+      "category": "Pakistani",
+      "language": "Urdu"
+    },
+    {
+      "id": "2",
+      "name": "B4U Movies",
+      "logo_url": "https://raw.githubusercontent.com/iptv-org/iptv/master/logos/in/B4UMovies.png",
+      "stream_url": "https://example.com/b4u.m3u8",
+      "category": "Bollywood Movies",
+      "language": "Hindi"
+    },
+    {
+      "id": "3",
+      "name": "Dangal TV",
+      "logo_url": "",
+      "stream_url": "https://example.com/dangal.m3u8",
+      "category": "Bollywood Dramas",
+      "language": "Hindi"
+    },
+    {
+      "id": "4",
+      "name": "PTC Punjabi Gold",
+      "logo_url": "",
+      "stream_url": "https://example.com/ptc.m3u8",
+      "category": "Punjabi",
+      "language": "Punjabi"
+    },
+    {
+      "id": "5",
+      "name": "Pop (Pakistan)",
+      "logo_url": "",
+      "stream_url": "https://example.com/pop.m3u8",
+      "category": "Cartoons",
+      "language": "Urdu"
+    },
+    {
+      "id": "6",
+      "name": "Saudi Quran TV",
+      "logo_url": "",
+      "stream_url": "https://example.com/quran.m3u8",
+      "category": "Islamic",
+      "language": "Arabic"
+    }
+  ]
+}
